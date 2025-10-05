@@ -1,0 +1,12 @@
+telas.TelaEstatisticas
+telas.TelaEstatisticas$DadosGrafico
+telas.TelaEstatisticas$GraficoPizza
+telas.TelaEstatisticas$GraficoBarras
+telas.TelaEstatisticas$GraficoPizza$1
+telas.TelaEstatisticas$GraficoPizza$2
+telas.TelaEstatisticas$GraficoBarras$1
+telas.TelaEstatisticas$GraficoLinha
+telas.TelaEstatisticas$GraficoLinha$1
+telas.TelaEstatisticas$GraficoBarrasHorizontal
+telas.TelaEstatisticas$GraficoLinha$2
+telas.TelaEstatisticas$GraficoBarras$2

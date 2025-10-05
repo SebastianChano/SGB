@@ -1,0 +1,3 @@
+telas.graficos.GraficoBarrasHorizontal
+telas.graficos.GraficoBarrasHorizontal$1
+telas.graficos.GraficoBarrasHorizontal$2
