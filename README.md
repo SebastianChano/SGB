@@ -248,6 +248,12 @@ Todos os direitos reservados aos donos das imagens utilizadas
 
 ---
 
+> ⚠️ **Aviso:**  
+> O código deste projeto está em desenvolvimento.  
+> Novas funcionalidades, mudanças e melhorias estão sendo adicionadas frequentemente.  
+> Agradecemos seu interesse e sua paciência enquanto continuamos construindo! 🚧✨
+> 
+---
 <div align="center">
 
 👨‍💻 Desenvolvido com ❤️ e ☕  
